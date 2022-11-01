@@ -1,3 +1,5 @@
+REPORT zrud_01.
+
 DATA:
   co_number TYPE i VALUE 1000,
   lv_sum    TYPE i VALUE 0,
