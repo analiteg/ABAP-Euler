@@ -8,3 +8,4 @@ Project Euler is a collection of mathematical and programming problems. Each pro
 1. [Multiples of 3 or 5](https://github.com/analiteg/ABAP-Project-Euler/blob/main/01.abap/)
 2. [Even Fibonacci numbers](https://github.com/analiteg/ABAP-Project-Euler/blob/main/02.abap/)
 3. [Largest prime factor](https://github.com/analiteg/ABAP-Project-Euler/blob/main/03.abap/)
+4. [Largest palindrome product](https://github.com/analiteg/ABAP-Project-Euler/blob/main/04.abap/)
